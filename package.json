@@ -5,8 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist -r https://github.com/Hujinhui666/ManageSystem.git -b gh-pages"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist -r https://github.com/Hujinhui666/ManageSystem.git -b gh-pages"
   },
   "dependencies": {
     "animate.css": "^4.1.1",
@@ -25,6 +25,7 @@
     "@vue/cli-plugin-vuex": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
     "babel-plugin-component": "^1.1.1",
+    "gh-pages": "^4.0.0",
     "less-loader": "^11.1.0",
     "vue-cli-plugin-element": "^1.0.1",
     "vue-cli-plugin-wyz-echarts": "^1.0.5",
