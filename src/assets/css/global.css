@@ -1,0 +1,39 @@
+#app,
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    min-width: 1366px;
+}
+
+/* 主体背景 */
+.el-main{
+    background-color: rgba(240, 242, 245, 1);
+    /* height: 100%; */
+}
+.el-main1 {
+    margin: 0px auto;
+    padding: 0;
+    height: 100%;
+    width: 1280px;
+    position: relative;
+    background-color: rgba(240, 242, 245, 1);
+    background-image: none;
+    text-align: left;
+}
+
+  /* 每页的头 样式 */
+#u98{
+    height: 15px;
+    border-width: 0px;
+}
+#cache1{
+    font-family: 'Microsoft Tai Le', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.847058823529412);
+}
+
+
