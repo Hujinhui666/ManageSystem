@@ -1,4 +1,4 @@
-# PC端 后台管理系统源码
+# 简易版 PC端后台管理系统源码
 # 预览效果
 https://hujinhui666.github.io/ManageSystemInit/
 # 账号密码
